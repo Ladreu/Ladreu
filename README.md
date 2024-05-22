@@ -1,16 +1,21 @@
-## Hi there 👋
+### Olá bem vindo ao meu perfil 👋
 
-<!--
-**Ladreu/Ladreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é wellyngton v.S.Oliveira
 
-Here are some ideas to get you started:
+-Estou estudando no Culto `a Ciência
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou em aprendizagem na linguagem de JavaScript
+
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+
+
+###Você pode entrar em contato comigo 📫
+
+00001102495001SP@al.educacao.sp.gov.br
+
+
+![](https://media1.tenor.com/m/eq7ZITrgxFcAAAAC/omega-omegamart.gif)
+
+
+
